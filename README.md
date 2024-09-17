@@ -1,2 +1,2 @@
-# Blog-Generator-GenAI-App
-Blog generator application developed using React.js and GenAI
+# Natural language to SQL command generator 
+SQl command generator is developed using open source LLM model -- Defog SQLCoder
